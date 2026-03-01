@@ -18,4 +18,5 @@ I build data projects focused on:
 
 📍 Based in Greece | Open to junior data analyst roles
 📫 Contact
+---
 LinkedIn: https://linkedin.com/in/charalampos-gavrias-9322683b4
